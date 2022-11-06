@@ -173,7 +173,7 @@ export const vars = createGlobalTheme(':root', {
     grey900: '#fdf0f8',
     grey800: '#141B2B',
     grey700: '#293249',
-    grey500: '#5E6887',
+    grey500: '#000000',
     grey400: '#7C85A2',
     grey300: '#99A1BD',
     grey200: '#B7BED4',
